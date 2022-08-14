@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Smeana_3_menu_de_opciones_en_consola</RootNamespace>
+  </PropertyGroup>
+
+</Project>
